@@ -1,5 +1,6 @@
 [
     {
+        "Key": "1",
         "Name": "Joe Jamail",
         "Price": 1700000,
         "Citizenship": "United States",
@@ -8,6 +9,7 @@
         "image": "http://moneyinc.com/wp-content/uploads/2016/06/Richard-Scruggs.jpg"
     },
     {
+        "Key": "2",
         "Name": "Richard Scruggs",
         "Price": 1700000,
         "Citizenship": "U.S",
@@ -16,6 +18,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Richard_Scruggs.jpg/330px-Richard_Scruggs.jpg"
     },
     {
+        "Key": "3",
         "Name": "Wichai Thongtang",
         "Price": 1600000,
         "Citizenship": "Thailand",
@@ -24,6 +27,7 @@
         "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9f1892014462fc79cb54d%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D844%26cropY1%3D0%26cropY2%3D844"
     },
     {
+        "Key": "4",
         "Name": "William Lerach",
         "Price": 1500000,
         "Citizenship": "U.S",
@@ -32,6 +36,7 @@
         "image": "https://polisci.ucsd.edu/_images/lerach_portrait"
     },
     {
+        "Key": "5",
         "Name": "Bill Neukom",
         "Price": 0,
         "Citizenship": "",
