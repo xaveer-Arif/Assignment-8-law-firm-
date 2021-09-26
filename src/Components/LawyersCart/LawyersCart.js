@@ -5,7 +5,7 @@ const LawyersCart = (props) => {
     const {cart} = props
     const total = cart.reduce((previous, current) => previous + current.Price,0)
     return (
-        <div className = 'cart ms-2 me-2 lawyers-cart'>
+        <div className = 'cart ms-2 me-2 '>
             <h1 className = 'text-center'> <span className ='cart-name'>Hire Now</span> </h1>
             <hr className = 'mx-5' />
             <div className = 'ms-3'>
