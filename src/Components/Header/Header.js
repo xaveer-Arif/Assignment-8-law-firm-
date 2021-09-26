@@ -1,11 +1,13 @@
 import React from 'react';
 import './Header.css'
 
+
 const Header = () => {
     return (
-        <div className= 'bg-dark'>
-            <h1 className ='text-center text-white'>Law Firm</h1>
-            <h3 className ='text-center text-white'>Total 100</h3>
+        <div className= 'header'>
+            <h1 className ='display-3 fw-bold text-center text-white'>Law 
+            <span> Firm</span></h1>
+            <h2 className ='text-center text-white total'>Total 100</h2>
         </div>
     );
 };

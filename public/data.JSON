@@ -13,7 +13,7 @@
         "Name": "Richard Scruggs",
         "Price": 1700000,
         "Citizenship": "U.S",
-        "Occupation": "Former attorney",
+        "Occupation": "Attorney",
         "Net": "$1.7B",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Richard_Scruggs.jpg/330px-Richard_Scruggs.jpg"
     },
@@ -38,10 +38,73 @@
     {
         "Key": "5",
         "Name": "Bill Neukom",
-        "Price": 0,
-        "Citizenship": "",
-        "Occupation": "",
+        "Price": 1400000,
+        "Citizenship": "U.S",
+        "Occupation": "Atorny",
         "Net": " $850 million",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bill_Neukom_2010_CROP.jpg/330px-Bill_Neukom_2010_CROP.jpg"
+    },
+    {
+        "Key": "6",
+        "Name": "Judy Sheindlin",
+        "Price": 1400000,
+        "Citizenship": "U.S",
+        "Occupation": "Lawyerjudge",
+        "Net": " $100 million",
+        "image": "https://cdn.britannica.com/w:400,h:300,c:crop/25/164625-050-086FFF65/Judith-Sheindlin-2012.jpg"
+    },
+    {
+        "Key": "7",
+        "Name": "Willie E. Gary",
+        "Price": 1300000,
+        "Citizenship": "Eastman, GA",
+        "Occupation": "Attorne",
+        "Net": " $850 million",
+        "image": "https://williegary.com/images/attorneys/Willie_Gary.jpg"
+    },
+    {
+        "Key": "8",
+        "Name": "Roy Black",
+        "Price": 1300000,
+        "Citizenship": "Florida",
+        "Occupation": "Defense",
+        "Net": " $100 million",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71juKecEeWL._SL1200_.jpg"
+    },
+    {
+        "Key": "9",
+        "Name": "Jane Wanjiru",
+        "Price": 1200000,
+        "Citizenship": " Kenya",
+        "Occupation": "Attorne",
+        "Net": "$60 million",
+        "image": "http://moneyinc.com/wp-content/uploads/2016/06/Jane-Wanjiru-Michuki.jpg"
+    },
+    {
+        "Key": "10",
+        "Name": "John Branca",
+        "Price": 1100000,
+        "Citizenship": "New York",
+        "Occupation": "Attorne",
+        "Net": "$50 million",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/London_Premier_of_Bad_25_-_John_G._Branca.JPG/330px-London_Premier_of_Bad_25_-_John_G._Branca.JPG"
+    },
+    {
+        "Key": "11",
+        "Name": "Mark Geragos",
+        "Price": 1100000,
+        "Citizenship": "New York",
+        "Occupation": "Attorne",
+        "Net": "$25 million",
+        "image": "http://moneyinc.com/wp-content/uploads/2016/06/Mark-Geragos.jpg"
+    },
+    {
+        "Key": "12",
+        "Name": "Lynn Toler",
+        "Price": 1000000,
+        "Citizenship": "New York",
+        "Occupation": "Attorne",
+        "Net": "$15 million",
+        "image": "http://moneyinc.com/wp-content/uploads/2016/06/Lynn-toler.jpg"
     }
 ]

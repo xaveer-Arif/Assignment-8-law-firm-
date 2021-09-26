@@ -19,7 +19,7 @@ const Body = () => {
         setCart(newCart)
     }
     return (
-        <div className = 'lawyers-container'>
+        <div className = 'lawyers-container ps-3'>
 
             {/* for lawyers details */}
             <div className = 'row'>
