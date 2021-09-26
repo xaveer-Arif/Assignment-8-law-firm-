@@ -18,7 +18,7 @@ const LawyersDetails = (props) => {
       
       <div className=" text-white">
         <h3><span className = 'text-name'>{Name}</span></h3>
-        <h5><span className = 'text'>Price:</span> {Price}</h5>
+        <h5><span className = 'text'>Price: $</span>{Price}</h5>
         <h5><span className = 'text'>Occupation:</span> {Occupation}</h5>
         <h5><span className ='text'>Citizenship:</span>{Citizenship}</h5>
         <h5><span className ='text'>Net Worth:</span> {Net}</h5>

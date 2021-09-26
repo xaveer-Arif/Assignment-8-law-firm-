@@ -3,7 +3,6 @@ import './LawyersCart.css'
 
 const LawyersCart = (props) => {
     const {cart} = props
-    console.log(cart)
     const total = cart.reduce((previous, current) => previous + current.Price,0)
     return (
         <div className = 'cart ms-2'>
